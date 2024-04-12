@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1712954316 source:c:\users\hernandez\3d objects\guia 4\oswindows\main.cpp
+	<iostream>
+	"OSWindows.h"
+
+1712954361 c:\users\hernandez\3d objects\guia 4\oswindows\oswindows.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712954316 c:\users\hernandez\3d objects\guia 4\oswindows\iapariencia.h
+
+1712954409 source:c:\users\hernandez\3d objects\guia 4\oswindows\iapariencia.cpp
+	"iApariencia.h"
+
